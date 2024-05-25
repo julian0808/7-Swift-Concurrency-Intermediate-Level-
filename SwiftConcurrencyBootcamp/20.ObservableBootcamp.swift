@@ -1,0 +1,18 @@
+//
+//  20.ObservableBootcamp.swift
+//  SwiftConcurrencyBootcamp
+//
+//  Created by Julian Mesa on 17/04/24.
+//
+
+import SwiftUI
+
+struct _0_ObservableBootcamp: View {
+    var body: some View {
+        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+    }
+}
+
+#Preview {
+    _0_ObservableBootcamp()
+}
